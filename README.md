@@ -1,5 +1,5 @@
-# Tarea 2
+# Proyecto 2
 
 Realizado por David Alvarez
 
-Publicado en [https://spontaneous-fairy-a74775.netlify.app/](https://spontaneous-fairy-a74775.netlify.app/)
+Publicado en [https://superb-gelato-29b49e.netlify.app/](https://superb-gelato-29b49e.netlify.app/)
