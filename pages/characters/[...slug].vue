@@ -6,7 +6,8 @@
      <div class="row">
        <div class="six columns">
          <h2>{{character.characterName }}</h2>
-         <p><b>Casa:</b> {{character.houseName}}</p>
+         <p><b>Casa:</b>  <NuxtLink :to="`/houses/${character.houseName}`">{{character.houseName}}</NuxtLink></p>
+        
          <img v-if="character.characterImageFull !== undefined" :src="`${character.characterImageFull}`" :alt="`${character.characterName}`">
        </div>
      </div>
